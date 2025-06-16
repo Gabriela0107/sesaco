@@ -1,2 +1,14 @@
-streamlit
+fastapi
+uvicorn
+python-multipart
+passlib
+fpdf2
 pandas
+matplotlib
+plotly
+streamlit
+requests
+pillow
+python-dotenv
+openpyxl
+xlsxwriter
